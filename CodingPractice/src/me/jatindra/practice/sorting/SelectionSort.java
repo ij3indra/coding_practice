@@ -1,4 +1,4 @@
-package com.jatin.practice;
+package me.jatindra.practice.sorting;
 
 public class SelectionSort {
     // o(n^2)
