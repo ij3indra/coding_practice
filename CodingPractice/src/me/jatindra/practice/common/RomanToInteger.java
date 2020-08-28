@@ -1,4 +1,4 @@
-package com.jatin.practice;
+package me.jatindra.practice.common;
 
 public class RomanToInteger {
 
