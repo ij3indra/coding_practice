@@ -1,7 +1,10 @@
 package me.jatindra.practice.sorting;
 
+/*
+	complexity: O(n^2)
+ */
+
 public class SelectionSort {
-    // o(n^2)
     public static void  main(String args[]) {
         int[] array = {20, 35, -15, 7, 55, 1, -22};
 

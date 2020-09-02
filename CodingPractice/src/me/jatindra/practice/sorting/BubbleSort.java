@@ -1,5 +1,9 @@
 package me.jatindra.practice.sorting;
 
+/*
+	complexity: O(n^2)
+ */
+
 public class BubbleSort {
 
 	public static void main(String args[]) {
